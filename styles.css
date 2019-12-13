@@ -1,0 +1,33 @@
+body{
+	background-color: red
+}
+
+#principal{
+	display: flex;
+	width: 80%;
+	height: auto;
+}
+
+#contenedor11{
+	display: flex;
+	flex-flow: column;
+}
+
+#informacion{
+	width: 100%;
+}
+
+
+#datos{
+	display: flex;
+}
+
+#labels{
+	display: flex;
+	flex-flow: column;
+}
+
+#valores{
+	display: flex;
+	flex-flow: column;
+}
